@@ -2,8 +2,8 @@ package models;
 
 public class Node {
 	
-	private int data;
-	private Node next;
+	 int data;
+	 public Node next;
 
 	public Node() {
 		this.setData(0);
